@@ -1,0 +1,20 @@
+{
+  "name": "hexo-site",
+  "version": "2.5.2",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fangcao7618/fangcao7618.github.io.git"
+  },
+  "homepage": "http://fangcao7618.github.io/",
+  "keywords": [
+    "website",
+    "blog",
+    "framework",
+    "hexo"
+  ],
+  "dependencies": {},
+  "devDependencies":{
+    
+  }
+}
